@@ -191,7 +191,7 @@ Universidade de São Paulo (USP) | 2008 - 2015
 
 - [ ] Expand Virtual Choir Creator with new collaborative features and reach 100K+ users
 - [ ] Grow SheetMusicStores platform to serve musicians and educators worldwide
-- [ ] Develop new innovative tools that bridge technology and music education
+- [ ] Leverage AI to create innovative solutions that enhance productivity and creativity in music education
 
 ---
 
