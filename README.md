@@ -1,13 +1,12 @@
 <div align="center">
   
-# 👋 Hi, I'm Filipe Santos
+# 👋 Hi, I'm Filipe Fonseca
 
-### 🚀 [TO BE FILLED: Your Professional Title - e.g., Full Stack Developer | Software Engineer | Cloud Architect]
+### 🚀 Full Stack Developer | Musician | Builder of Digital Experiences
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TO-BE-FILLED])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipedfs)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipedfs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TO-BE-FILLED]@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://[TO-BE-FILLED].com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.filipefonseca.com)
 
 </div>
 
@@ -15,37 +14,38 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate software developer dedicated to creating innovative solutions and building impactful projects. With a strong foundation in [TO BE FILLED: programming languages/technologies], I enjoy tackling complex problems and continuously learning new technologies.
+I'm a passionate software developer dedicated to creating innovative solutions and building impactful projects. With expertise in full-stack development and a unique background in music, I bring creativity and technical excellence to everything I build.
 
-- 🔭 I'm currently working on **[TO BE FILLED: Current project or company name]**
-- 🌱 I'm currently learning **[TO BE FILLED: Technologies you're learning - e.g., Kubernetes, Machine Learning, Rust]**
-- 👯 I'm looking to collaborate on **[TO BE FILLED: Types of projects - e.g., Open Source, Web Applications, DevOps Tools]**
-- 💬 Ask me about **[TO BE FILLED: Your areas of expertise - e.g., Python, JavaScript, Cloud Computing]**
-- ⚡ Fun fact: **[TO BE FILLED: Something interesting about you]**
+- 🎵 **Musician & Developer**: Combining my love for music and technology to create innovative solutions
+- 🚀 **Building**: Creating tools and platforms that empower musicians and creators
+- 🎯 **Projects**: Virtual Choir Creator app, SheetMusicStores.com, SummarizeForMe.com
+- 💡 **Expertise**: Full-stack development with Java, Dart, JavaScript/TypeScript, Spring Boot, React, and Flutter
+- 🏢 **Experience**: Senior Full Stack Engineer with a focus on building scalable applications
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & Databases
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -55,15 +55,20 @@ I'm a passionate software developer dedicated to creating innovative solutions a
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Tools & Others
+### Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-> **Note:** Remove or add badges above based on your actual tech stack. The badges are for visual appeal and to quickly showcase your skills.
+### AI Development Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -83,22 +88,38 @@ I'm a passionate software developer dedicated to creating innovative solutions a
 
 ## 🚀 Featured Projects
 
-### 🔹 [TO BE FILLED: Project Name 1]
-**[TO BE FILLED: Brief description of what this project does]**
-- 🛠️ **Tech Stack:** [TO BE FILLED: Technologies used]
-- 🔗 **Links:** [GitHub Repo](https://github.com/filipedfs/[project-name]) | [Live Demo](https://[project-url].com)
+### 🎵 Virtual Choir Creator
+**A mobile app that enables musicians to create collaborative virtual choir and ensemble videos**
 
-### 🔹 [TO BE FILLED: Project Name 2]
-**[TO BE FILLED: Brief description of what this project does]**
-- 🛠️ **Tech Stack:** [TO BE FILLED: Technologies used]
-- 🔗 **Links:** [GitHub Repo](https://github.com/filipedfs/[project-name]) | [Live Demo](https://[project-url].com)
+Create beautiful virtual choir videos by recording performances, importing tracks from friends, synchronizing audio/video, and editing professional montages—all from your mobile device.
 
-### 🔹 [TO BE FILLED: Project Name 3]
-**[TO BE FILLED: Brief description of what this project does]**
-- 🛠️ **Tech Stack:** [TO BE FILLED: Technologies used]
-- 🔗 **Links:** [GitHub Repo](https://github.com/filipedfs/[project-name])
+- 🛠️ **Tech Stack:** Flutter, Dart, FFmpeg, Android
+- 🔗 **Links:** [Google Play Store](https://play.google.com/store/apps/details?id=com.filipefonseca.virtualchoir) | [Website](https://www.virtualchoir.app/)
+- 📅 **Since:** 2020
 
-> **Note:** Add your actual projects above. Include 2-5 of your best or most recent projects.
+### 🎼 SheetMusicStores
+**An online marketplace platform for sheet music and musical resources**
+
+A comprehensive platform connecting musicians with quality sheet music and educational materials, making music education more accessible.
+
+- 🛠️ **Tech Stack:** React, Next.js, Spring Boot, PostgreSQL
+- 🔗 **Links:** [Website](https://www.sheetmusicstores.com)
+- 📅 **Since:** 2021
+
+### 📝 SummarizeForMe
+**An AI-powered tool for content summarization**
+
+Quickly summarize long-form content using advanced AI, helping users save time and extract key insights from articles, documents, and web pages.
+
+- 🛠️ **Tech Stack:** React, Next.js, Node.js, AI APIs
+- 🔗 **Links:** [Website](https://www.summarizeforme.com)
+
+### 🎥 YouTube Channel: Filipe Fonseca Editoração Musical
+**Educational content about music notation, editing, and production**
+
+Sharing knowledge and tutorials about music notation software, score preparation, and digital music production for musicians and educators.
+
+- 🔗 **Links:** [YouTube Channel](https://www.youtube.com/@FilipeFonsecaEditoracaoMusical)
 
 ---
 
@@ -122,52 +143,55 @@ I'm a passionate software developer dedicated to creating innovative solutions a
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Articles & Posts
 
-<!-- BLOG-POST-LIST:START -->
-[TO BE FILLED: Add your blog posts here, or remove this section if you don't have a blog. You can also automate this using GitHub Actions]
-- [Post Title 1](https://yourblog.com/post-1)
-- [Post Title 2](https://yourblog.com/post-2)
-- [Post Title 3](https://yourblog.com/post-3)
-<!-- BLOG-POST-LIST:END -->
-
-> **Note:** Remove this section if you don't maintain a blog. Otherwise, add links to your latest posts or set up automation.
+Check out my professional insights and thoughts on [LinkedIn](https://linkedin.com/in/filipedfs) where I occasionally share content about software development, technology, and innovation.
 
 ---
 
 ## 💼 Experience
 
-**[TO BE FILLED: Current Job Title]** @ [TO BE FILLED: Company Name]  
-📅 [TO BE FILLED: Start Date] - Present  
-- [TO BE FILLED: Key responsibility or achievement 1]
-- [TO BE FILLED: Key responsibility or achievement 2]
-- [TO BE FILLED: Key responsibility or achievement 3]
+**Senior Full Stack Engineer** @ SuperSim Análise de Dados e Correspondente Bancário  
+📅 2020 - Present  
+- Developing and maintaining full-stack applications using modern technologies
+- Building scalable backend services with Spring Boot and Java
+- Creating responsive frontend applications with React and Next.js
+- Implementing CI/CD pipelines and cloud infrastructure
 
-**[TO BE FILLED: Previous Job Title]** @ [TO BE FILLED: Company Name]  
-📅 [TO BE FILLED: Start Date] - [TO BE FILLED: End Date]  
-- [TO BE FILLED: Key responsibility or achievement 1]
-- [TO BE FILLED: Key responsibility or achievement 2]
+**Founder & Developer** @ Virtual Choir Creator  
+📅 2020 - Present  
+- Built and launched a mobile app for creating virtual choir videos
+- Developed using Flutter and Dart for cross-platform compatibility
+- Integrated advanced video/audio processing using FFmpeg
+- Growing user base of musicians and educators worldwide
 
-> **Note:** Add your work experience above, or remove this section if you prefer not to include it.
+**Founder & Developer** @ SheetMusicStores  
+📅 2021 - Present  
+- Created an online marketplace platform for sheet music
+- Built full-stack solution with React, Next.js, and Spring Boot
+- Designed and implemented e-commerce features and payment integration
+- Managing platform operations and continuous feature development
 
 ---
 
 ## 🎓 Education
 
-**[TO BE FILLED: Degree Name]** in [TO BE FILLED: Field of Study]  
-[TO BE FILLED: University Name] | [TO BE FILLED: Graduation Year]
+**Bachelor of Business Administration**  
+Universidade de São Paulo (USP) | 2017 - 2021
 
-> **Note:** Add your educational background, or remove this section if you prefer not to include it.
+**Master's in Musicology**  
+Universidade de São Paulo (USP) | 2016 - 2018
+
+**Bachelor of Music (Conducting)**  
+Universidade de São Paulo (USP) | 2008 - 2015
 
 ---
 
 ## 🎯 2026 Goals
 
-- [ ] [TO BE FILLED: Goal 1 - e.g., Contribute to major open-source projects]
-- [ ] [TO BE FILLED: Goal 2 - e.g., Master a new technology or framework]
-- [ ] [TO BE FILLED: Goal 3 - e.g., Build and launch a SaaS product]
-- [ ] [TO BE FILLED: Goal 4 - e.g., Write technical blog posts]
-- [ ] [TO BE FILLED: Goal 5 - e.g., Speak at a tech conference]
+- [ ] Expand Virtual Choir Creator with new collaborative features and reach 100K+ users
+- [ ] Grow SheetMusicStores platform to serve musicians and educators worldwide
+- [ ] Develop new innovative tools that bridge technology and music education
 
 ---
 
@@ -175,11 +199,10 @@ I'm a passionate software developer dedicated to creating innovative solutions a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TO-BE-FILLED])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[TO-BE-FILLED])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TO-BE-FILLED]@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://[TO-BE-FILLED].com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/[TO-BE-FILLED])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipedfs)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/filipedfs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.filipefonseca.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/filipedfs)
 
 </div>
 
@@ -204,5 +227,5 @@ I'm a passionate software developer dedicated to creating innovative solutions a
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Filipe Santos</sub>
+  <sub>Built with ❤️ by Filipe Fonseca</sub>
 </div>
